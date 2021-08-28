@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "reflect-metadata": "^0.1.10",
-    "systemjs": "^0.20.12"
+    "systemjs": "^0.21.6"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
